@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost/currency
+    username: postgres
+    password: 123
+  jpa:
+    generate-ddl: true
